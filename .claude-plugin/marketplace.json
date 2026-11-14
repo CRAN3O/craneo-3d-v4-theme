@@ -1,0 +1,11 @@
+{
+  "name": "craneo-local",
+  "owner": { "name": "Craneo" },
+  "plugins": [
+    {
+      "name": "craneo-3d-v4",
+      "source": "./",
+      "description": "CRANEO 3D v4 theme: Paper and Ink, casual take with pigments and a drifting sticker-sheet backdrop."
+    }
+  ]
+}
